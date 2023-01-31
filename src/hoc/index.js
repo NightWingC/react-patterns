@@ -1,3 +1,3 @@
-import {HocPage} from './components/hoc-page';
+import { HocPage } from './components/hoc-page';
 
-export {HocPage};
+export { HocPage };
